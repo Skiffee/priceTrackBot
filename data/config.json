@@ -1,0 +1,8 @@
+{
+    "command_prefix": "pt!",
+    "update_interval": 14400,
+    "default_updates_channel": "price-track",
+    "default_currency": "CAD",
+    "rate_limit": 5,
+    "throttle_period": 60
+}
